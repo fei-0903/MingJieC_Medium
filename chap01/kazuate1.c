@@ -4,8 +4,8 @@
 
 int main(void)
 {
-	int no;			/* 读取的值 */
-	int ans = 7;	/* 目标数字 */
+	int no;		 /* 读取的值 */
+	int ans = 7; /* 目标数字 */
 
 	printf("请猜一个0~9的整数。\n\n");
 
